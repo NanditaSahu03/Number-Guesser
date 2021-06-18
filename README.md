@@ -1,6 +1,7 @@
 # Number-Guesser
 
 This is a number guesser game made with HTML and Javascript . The range of the numbers is 1 to 10 and you will get 3 attempts to choose the right number.
+
 /*
 GAME FUNCTION:
 - Player must guess a number between a min and max
